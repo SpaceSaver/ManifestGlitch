@@ -8,7 +8,7 @@
       "sizes": "122x122"
     }
   ],
-  "id": "chrome-extension://kmffehbidlalibfeklaefnckpidbodff/_generated_background_page.html",
+  "id": "?special=1",
   "start_url": "chrome-extension://kmffehbidlalibfeklaefnckpidbodff/_generated_background_page.html",
   "background_color": "#3367D6",
   "display": "standalone",
